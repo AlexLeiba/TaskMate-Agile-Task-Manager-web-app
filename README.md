@@ -1,6 +1,11 @@
 
 # TaskMate url: https://task-mate-five.vercel.app/
 
+
+## About project
+ TaskMate is an Agile Task Manager Web App that allows users to create, manage, assign, add attachments , comments and prioritize tasks and many other useful features. 
+    It offers a clean ,intuitive and customizable interface, drag-and-drop functionality for lists and cards, and a large variety of beautiful backgrounds, making it easy for users to stay organized and focused while enjoying the beautiful design.
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
